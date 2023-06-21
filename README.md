@@ -1,0 +1,1 @@
+# bootstrapingec2instance
